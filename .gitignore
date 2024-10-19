@@ -1,5 +1,6 @@
-__pycache__
+__pycache__/
 datasets
 my_ml_backend
 runs
 install.txt
+yolov8s.pt
