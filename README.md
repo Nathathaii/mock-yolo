@@ -1,7 +1,7 @@
 # Create conda env
 
-create conda environment for the project
-ultralitics and label-studio require python version later than 3.8
+create conda environment for the project \n
+Note: Ultralytics and label-studio require Python 3.8 or later
 ##
     conda create -n cap-detect python=3.9
 <br>
