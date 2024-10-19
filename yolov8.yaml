@@ -1,0 +1,18 @@
+path: C:\Users\Nathathai\Documents\chula_year4.1\Capstone\detection\datasets\football_player
+
+train: train/images
+val: valid/images
+
+train_label: train/labels
+val_label: valid/labels
+    
+
+nc: 3
+names: ['Ball', 'Football-Player', 'trafic-light']
+
+roboflow:
+  workspace: r-datchany-ddgcw
+  project: car-ifbq6
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/r-datchany-ddgcw/car-ifbq6/dataset/1
